@@ -1,0 +1,12 @@
+﻿  Ex20.cpp
+C:\Users\user\source\repos\OopEx20\OopEx20\Ex20.cpp(197,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\OopEx20\OopEx20\Ex20.cpp(211,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\OopEx20\OopEx20\Ex20.cpp(222,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\OopEx20\OopEx20\Ex20.cpp(231,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\OopEx20\OopEx20\Ex20.cpp(250,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\OopEx20\OopEx20\Ex20.cpp(258,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\OopEx20\OopEx20\Ex20.cpp(262,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\OopEx20\OopEx20\Ex20.cpp(285,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\OopEx20\OopEx20\Ex20.cpp(327,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\OopEx20\OopEx20\Ex20.cpp(397,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  OopEx20.vcxproj -> C:\Users\user\source\repos\OopEx20\Debug\OopEx20.exe
